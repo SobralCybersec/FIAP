@@ -40,8 +40,8 @@
 
 <div align="center">
 
-**Wireshark:**
-[Link](https://pt.overleaf.com/gallery/tagged/cv)
+**• WireShark:**
+[Link](https://www.wireshark.org/)
 
 </div>
 
@@ -53,13 +53,21 @@
 
 <div align="center">
 
-**Rednesp quebra recorde de velocidade de internet em conferência internacional**
+**• Redes de Computadores e a Internet - Jim Kurose e Keith W. Ross**
+
+**• Rednesp quebra recorde de velocidade de internet em conferência internacional**
 [Jornal UNESP](https://jornal.unesp.br/2025/12/03/rednesp-quebra-recorde-de-velocidade-de-internet-em-conferencia-internacional/)
 
-**IBM CIO W3**
+**• MODELO OSI x TCP/IP - Professora Nattane**
+[Link do Vídeo](https://www.youtube.com/watch?v=c5vfwNBbl4g/)
+
+**• IBM CIO W3**
 [IBM CIO w3](https://www.ibm.com/br-pt/case-studies/ibm-w3/)
 
-**Referência de Anime: Gintama e Jujutsu Kaisen**
+**• IBM: Segurança da Informação**
+[Link IBM](https://www.ibm.com/br-pt/think/topics/information-security/)
+
+**• Referência de Anime: Gintama e Jujutsu Kaisen**
 
 [← Página Principal](../../README.md) | [Próximo Capítulo →](../Cap%2003%20-%20Introducao%20a%20redes%20de%20comunicacao/README.md)
 
