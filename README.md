@@ -1,6 +1,12 @@
-# 📚 Estudos FIAP - Redes de Computadores
 
-## Fase 1
+<!-- HEADER -->
+<h1 align="center"><img src="https://i.imgur.com/P4Q8WVi.gif" width="24"/> Cibersegurança (Estudos)</h1>
+
+<h2 align="center">• Materiais complementares dos meus Estudos dentro da faculdade FIAP</h2>
+
+[![](https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png)](https://www.fiap.com.br/graduacao)
+
+## • Primeiro Semestre:
 
 - [Cap 02 - Fundamentos de SI](./Fase%201/Cap%2002%20-%20Fundamentos%20de%20SI/README.md)
 - [Cap 03 - Introdução à redes de comunicação](./Fase%201/Cap%2003%20-%20Introducao%20a%20redes%20de%20comunicacao/README.md)

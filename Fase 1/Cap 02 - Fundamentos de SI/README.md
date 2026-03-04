@@ -1,48 +1,36 @@
 <!-- HEADER -->
 
-<img src="https://i.imgur.com/s6UjAch.png" />
 
 <!--Header Name-->
 <h1 align="center"><img src="https://i.imgur.com/P4Q8WVi.gif" width="24"/> Segurança da Informação</h1>
 
-Material didático de Segurança da Informação, Livre para consultar e modificar*<br />
+*Material didático de Introdução à Segurança da Informação, Livre para consultar e modificar*<br />
 
 <!--Start Roadmap-->     
+---
 
 <h1 align="center"><img src="https://i.imgur.com/XzSyf30.png" width="28"/> Introdução</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/T1GOITn.jpeg" />
+  <img src="https://i.imgur.com/Z3yCXzD.jpeg" />
+</p>
+
+<!--Start Modelos-->
+---
+<h1 align="center"><img src="https://i.imgur.com/48Z2L1Z.gif" width="30"/> Modelo OSI x TCP/IP</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/LLOE7VS.jpeg" width="800" />
 </p>
 
 ---
 
-<!--Start Example-->
+<!--Start Riscos-->
 
-<h1 align="center"><img src="https://i.imgur.com/48Z2L1Z.gif" width="30"/> Exemplo Prático</h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/tXN0Wac.png" width="800" />
-</p>
-
----
-
-<!--Start ATS-->
-
-<h1 align="center"><img src="https://i.imgur.com/m41XwMi.gif" width="35"/>  Como Evoluir Seu Currículo e Hackear o ATS</h1>
+<h1 align="center"><img src="https://i.imgur.com/m41XwMi.gif" width="35"/>  Riscos / Gestão de Riscos</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/v8RZ0uq.jpeg" />
-</p>
-
----
-
-<!--Start Example Final-->
-
-<h1 align="center"><img src="https://i.imgur.com/DcN6xkv.gif" width="30"/> Exemplo Final</h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/nmtqWO3.png" width="800" />
+  <img src="https://i.imgur.com/0oayMAR.jpeg" />
 </p>
 
 ---
@@ -52,14 +40,8 @@ Material didático de Segurança da Informação, Livre para consultar e modific
 
 <div align="center">
 
-**Overleaf (LaTeX para Currículos)**
-[https://pt.overleaf.com/gallery/tagged/cv](https://pt.overleaf.com/gallery/tagged/cv)
-
-**Editar Metadados de PDF (ATS)**
-[https://www.sejda.com/edit-pdf-metadata](https://www.sejda.com/edit-pdf-metadata)
-
-**Distribuição LaTeX (TeX Live)**
-[https://www.tug.org/texlive](https://www.tug.org/texlive)
+**Wireshark:**
+[Link](https://pt.overleaf.com/gallery/tagged/cv)
 
 </div>
 
@@ -71,22 +53,14 @@ Material didático de Segurança da Informação, Livre para consultar e modific
 
 <div align="center">
 
-**O Currículo Absurdo do Dev com 5 Empregos Remotos – Augusto Galego**
-[https://www.youtube.com/watch?v=KcLMDbtkarU](https://www.youtube.com/watch?v=KcLMDbtkarU)
+**Rednesp quebra recorde de velocidade de internet em conferência internacional**
+[Jornal UNESP](https://jornal.unesp.br/2025/12/03/rednesp-quebra-recorde-de-velocidade-de-internet-em-conferencia-internacional/)
 
-**O Pior Currículo Dev que eu já vi… – Augusto Galego**
-[https://www.youtube.com/watch?v=ZJfMD7yzTH4](https://www.youtube.com/watch?v=ZJfMD7yzTH4)
+**IBM CIO W3**
+[IBM CIO w3](https://www.ibm.com/br-pt/case-studies/ibm-w3/)
 
-**APLIQUE ESSAS DICAS no seu currículo AGORA – Fernanda Kipper**
-[https://www.youtube.com/watch?v=DqJaDYJfgOM](https://www.youtube.com/watch?v=DqJaDYJfgOM)
+**Referência de Anime: Gintama e Jujutsu Kaisen**
 
-**Como BURLAR o Robô de Currículos – O Novo Programador**
-[https://www.youtube.com/watch?v=fQ7GMBIDric](https://www.youtube.com/watch?v=fQ7GMBIDric)
-
-**Playlist: Tudo sobre seu currículo! – Hackeando a Carreira**
-[https://youtube.com/playlist?list=PLEcHzkgdMARHtVhgwOPYHdtIJnoGxkQtf](https://youtube.com/playlist?list=PLEcHzkgdMARHtVhgwOPYHdtIJnoGxkQtf)
+[← Página Principal](../../README.md) | [Próximo Capítulo →](../Cap%2003%20-%20Introducao%20a%20redes%20de%20comunicacao/README.md)
 
 </div>
-
-
-[← Voltar](../../README.md) | [Próximo →](../Cap%2003%20-%20Introducao%20a%20redes%20de%20comunicacao/README.md)
