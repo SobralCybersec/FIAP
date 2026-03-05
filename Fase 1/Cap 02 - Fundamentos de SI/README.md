@@ -69,6 +69,10 @@
 
 **• Referência de Anime: Gintama e Jujutsu Kaisen**
 
+</div>
+
+<div align="center">
+
 [← Página Principal](../../README.md) | [Próximo Capítulo →](../Cap%2003%20-%20Introducao%20a%20redes%20de%20comunicacao/README.md)
 
 </div>
