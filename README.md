@@ -19,6 +19,17 @@ ___
     4- De Aluno para Alunos.
 </div>
 
+<h1 align="center"><img src="https://i.imgur.com/dcLGC19.png" width="24"/> Minha Evolução e Certificados:</h1>
+<p align="center">
+  <img src="https://i.imgur.com/1EKWRgt.png" width="300"/>
+  <img src="https://i.imgur.com/2RVpFEY.png" width="300"/>
+  <img src="https://i.imgur.com/mRyUM61.png" width="300"/>
+  <img src="https://i.imgur.com/oslBWxn.png" width="300"/>
+</p>
+
+
+
+
 ## • Primeiro Semestre:
 
 - [Fundamentos de SI](./Fase%201/Cap%2002%20-%20Fundamentos%20de%20SI/README.md)
@@ -38,3 +49,8 @@ ___
 - [Conceitos de ACL](./Fase%201/Cap%2016%20-%20Conceitos%20de%20ACL/README.md)
 - [VPN](./Fase%201/Cap%2017%20-%20VPN/README.md)
 - [Firewall, IPS e IDS](./Fase%201/Cap%2018%20-%20Firewall%20IPS%20e%20IDS/README.md)
+
+## • Cursos Nano e Alura:
+
+<h3 align="center">• Em breve</h3>
+<h3 align="center">• Farei a inserção dos conteúdos com os desafios e projetos práticos</h3>
