@@ -52,5 +52,4 @@ ___
 
 ## • Cursos Nano e Alura:
 
-<h3 align="center">• Em breve</h3>
-<h3 align="center">• Farei a inserção dos conteúdos com os desafios e projetos práticos</h3>
+<h3 align="center">• Nano: [Java Development](./Nano/Projetos/Java/README.md)</h3>
