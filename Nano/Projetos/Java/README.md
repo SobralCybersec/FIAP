@@ -38,3 +38,9 @@ ___
 
     3- Interação com Java Swing
 </div>
+
+---
+<h1 align="center"><img src="https://i.imgur.com/FpGN9HL.png" width="24"/> Métricas de Tempo:</h1>
+<p align="center">
+  <img src="https://i.imgur.com/c38ZwhK.png"/>
+</p>
