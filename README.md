@@ -27,6 +27,12 @@ ___
   <img src="https://i.imgur.com/oslBWxn.png" width="300"/>
 </p>
 
+---
+
+<h1 align="center"><img src="https://i.imgur.com/5q5CE2B.png" width="24"/> CTF Wargames (1º Mês):</h1>
+<p align="center">
+  <img src="https://i.imgur.com/crQJDjx.png"/>
+</p>
 
 
 
