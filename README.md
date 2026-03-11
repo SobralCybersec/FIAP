@@ -58,4 +58,4 @@ ___
 
 ## • Cursos Nano e Alura:
 
-<h3 align="center">• Nano: [Java Development](./Nano/Projetos/Java/README.md)</h3>
+- Nano: [Java Development](./Nano/Projetos/Java/README.md)
