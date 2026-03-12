@@ -51,7 +51,7 @@
 
 ### **• Material padrão e Serial Experiments Lain**
 ### **• IBM: Conceitos de Rede e Comunicação**: [Link IBM](https://www.ibm.com/docs/pt-br/aix/7.3.0?topic=management-network-communication-concepts)
-
+### **• Redes de computadores para leigos que nem eu - lowwryzen: [Link Vídeo](https://www.youtube.com/watch?v=9cF7jk4fiak)
 
 [← Voltar](../../README.md) | [Próximo →](../Cap%2004%20-%20Arquiteturas%20e%20modelo%20de%20referencia%20em%20redes/README.md)
 
